@@ -24,6 +24,7 @@ NumPy
 Scikit-learn
 Streamlit
 
+<img width="1272" height="828" alt="Screenshot 2026-04-05 100838" src="https://github.com/user-attachments/assets/e3c20f5c-aceb-4558-b275-de3949e99349" />
 
 Model Performance
 R² Score: ~0.82
